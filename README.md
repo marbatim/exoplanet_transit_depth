@@ -67,3 +67,6 @@ Because a gas giant's radius ($R_{pl}$) is roughly an order of magnitude larger 
 
 ---
 
+## Open files
+
+compare.zip -> download 2 python files and put them into the IDLE (pycharm, vs code). Run them and you'll see 2 graphics.
